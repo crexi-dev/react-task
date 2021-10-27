@@ -23,7 +23,7 @@ to pull in random users and populate the profile page.
 
 ### Notes
 <ul>
-<li>The UI is up to you, although it is recommended to use [Material UI](https://mui.com/getting-started/supported-components/) components</li>
+<li>The UI is up to you, although it is recommended to use Material UI components</li>
 
 <li>You can add unit tests using Jest or React Testing Library</li>
 
